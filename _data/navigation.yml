@@ -1,14 +1,11 @@
 # main links
 main:
-  - title: "cv"
-    url: /cv/
+  - title: "present"
+    url: /present/
 
-  - title: "public engagement"
-    url: /public-engagement/    
-  
-  - title: "creative portfolio"
-    url: /creative-portfolio/
+  - title: "attend"
+    url: /attend/
     
-  - title: "weekly updates"
-    url: /weekly-updates/
+  - title: "contact"
+    url: /contact/
     
